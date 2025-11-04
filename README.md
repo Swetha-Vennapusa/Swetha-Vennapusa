@@ -104,7 +104,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SwethaVennapusa&show_icons=true&theme=tokyonight&hide_border=true&custom_title=VENNAPUSA%20SWETHA's%20GitHub%20Stats" 
+    src="https://github-readme-stats-5nqb9wny1-swetha-vennapusas-projects.vercel.app?username=SwethaVennapusa&show_icons=true&theme=tokyonight&hide_border=true&custom_title=VENNAPUSA%20SWETHA's%20GitHub%20Stats" 
     alt="VENNAPUSA SWETHA's GitHub Stats" 
     height="165" 
   />
@@ -114,8 +114,6 @@
     height="165" 
   />
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwethaVennapusa&layout=compact&theme=tokyonight&hide_border=true" alt="VENNAPUSA SWETHA's Top Languages" height="165" />
 </p>
