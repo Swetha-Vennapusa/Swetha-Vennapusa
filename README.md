@@ -100,38 +100,41 @@
 </details>
 
 ---
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
+
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-5nqb9wny1-swetha-vennapusas-projects.vercel.app?username=SwethaVennapusa&show_icons=true&theme=tokyonight&hide_border=true&custom_title=VENNAPUSA%20SWETHA's%20GitHub%20Stats" 
-    alt="VENNAPUSA SWETHA's GitHub Stats" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SwethaVennapusa&theme=tokyonight&hide_border=true" 
-    alt="VENNAPUSA SWETHA's GitHub Streak" 
-    height="165" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swetha-Vennapusa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwethaVennapusa&layout=compact&theme=tokyonight&hide_border=true" alt="VENNAPUSA SWETHA's Top Languages" height="165" />
+  <img src="https://streak-stats.vercel.app/?user=Swetha-Vennapusa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:swethavennapusa453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/swetha-vennapusa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha-Vennapusa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
+## 📫 Let's Connect  
+<p align="center">
+  <a href="mailto:swethavennapusa453@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/swetha-vennapusa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Swetha-Vennapusa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/swethavennapusa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/swethavennapusa">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
+
+---
 ⭐️ *“Turning ideas into powerful, user-driven digital realities”*  
